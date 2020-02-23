@@ -27,11 +27,18 @@ The folder repo contains the following:
    Enter your sentence here::
 
 4. After entering the sentence, select any of the following instructions:
+
    Press 1 :: Tokenize into sentence and words
+   
    Press 2 :: Lemmatize the words to extract lemmas as features
+   
    Press 3 :: POS Tagging of words
+   
    Press 4 :: Perform dependency parsing or full-syntactic parsing
+   
    Press 5 :: Extract hypernyms, hyponyms, meronyms AND holonyms
+   
    Press 0 :: To continue to Task 4
+   
    Enter your choice ::
 
